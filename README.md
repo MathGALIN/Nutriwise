@@ -8,7 +8,20 @@ Les données nutritionnelles ont étés récupérées via une **API open source*
 
 ## Aperçu du Dashboard
 
-![Nutriwise Screenshot 1](NUTRIWISE1.PNG)  
-![Nutriwise Screenshot 2](NUTRIWISE2.PNG)  
-![Nutriwise Screenshot 3](NUTRIWISE3.PNG)  
-![Nutriwise Screenshot 4](NUTRIWISE4.PNG)
+Base de données, triable en fonction des aliments conseillés pour finir la journée
+![Nutriwise Screenshot 1](NUTRIWISE1.png)  
+
+= = =
+
+Alimentation de la journée
+![Nutriwise Screenshot 2](NUTRIWISE2.png)
+
+= = =
+
+Statistique et conseil
+![Nutriwise Screenshot 3](NUTRIWISE3.png)  
+
+= = =
+
+Suivi calorique
+![Nutriwise Screenshot 4](NUTRIWISE4.png)
